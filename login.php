@@ -23,7 +23,7 @@
                 </div>
                 
                 <div class="field button">
-                    <input type="submit" value="Continue to Chat">
+                    <input type="submit" value="Continue">
                 </div>
             </form>
             <div class="link">Not yet signed up? <a href="index.php">signup now</a></div>

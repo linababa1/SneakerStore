@@ -36,7 +36,7 @@
                     <input type="file" name="image" required>
                 </div>
                 <div class="field button">
-                    <input type="submit" value="Continue to Chat" >
+                    <input type="submit" value="Continue" >
                 </div>
             </form>
             <div class="link">Already signed up? <a href="login.php">Login now</a></div>
